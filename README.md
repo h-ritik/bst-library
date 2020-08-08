@@ -1,1 +1,1 @@
-A generic BST library that takes arbitary data type and a comparator function. The functions offered are listed in "new_head.h". Sample files are also attached. "Assignment 7" will give more insight.
+A generic BST library that takes arbitary data type and a comparator function. The functions offered are listed in "new_head.h". Sample files are also attached. "Assignment 7" will give more insight."bst_head" is the source code and other files are sample codes to use the library.
